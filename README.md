@@ -13,6 +13,7 @@ A modern webstore built with Next.js using pages routing, inspired by Vercel's A
 - Product catalog browsing
 - Shopping cart functionality
 - Responsive layout
+- As some of the links like checkout dont work is because its not an actual e-commerce site, its just practice and an project!
 
 ## Getting Started
 
