@@ -2,6 +2,8 @@
 
 ![ACME Revamped](https://cdn.discordapp.com/attachments/1352694840617472010/1402543884248289340/image.png?ex=68944c48&is=6892fac8&hm=44a282465643fddb2acc43d3b82b0fb35336e0805ce7a6987cc626db5dbecfd0&)
 
+Live demo is https://acmerevamped.vercel.app/
+
 A modern webstore built with Next.js using pages routing, inspired by Vercel's ACME demo but redesigned with a fresh aesthetic.
 
 ## Features
